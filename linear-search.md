@@ -5,8 +5,14 @@
 
 ### Part 1: Instruction
 1. Watch the Edhesive video at _Term 2: Lesson 13 - Algorithms_ and take notes on your copy of the slides.
+1. Read the accompanying text summary to re-inforce your understanding.
+1. Answer the Edhesive questions at _Term 2: Lesson 13 - Review Questions_.
+
+
 1. Watch the Edhesive video at _Term 2: Lesson 14 - Linear Search_ and take notes on your copy of the slides.
 1. Read the accompanying text summary to re-inforce your understanding.
+1. Answer the Edhesive questions at _Term 2: Lesson 14 - Review Questions_.
+
 
 ### Part 2: Exploration
 1. Do [CodingBat linearSearch](https://codingbat.com/prob/p264850?parent=/home/simona1@sfusd.edu/searching)
