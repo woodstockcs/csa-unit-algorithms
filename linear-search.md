@@ -1,5 +1,6 @@
-[<-- back to unit overview](READMD.md)
+[<-- back to unit overview](README.md)
 
+---
 # Linear Search
 
 ### Part 1: Instruction
@@ -15,3 +16,5 @@
 ### Part 3: Mastery Check
 1. See Mr. Smith for a mastery check before moving on to the next lesson.
 
+---
+[<-- back to unit overview](README.md)
