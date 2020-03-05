@@ -2,7 +2,7 @@
 
 ### "Must Do" Lessons
 - 7.1 [Linear Search](linear-search.md)
-- 7.2 [Binary Search](binary-search.md)
+- 7.2 [Selection Sort](selection-sort.md)
 
 
 ### "Should Do" Lessons
