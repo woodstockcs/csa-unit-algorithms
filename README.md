@@ -3,7 +3,7 @@
 ### "Must Do" Lessons
 - 7.1 [Linear Search](linear-search.md)
 - 7.2 [Selection Sort](selection-sort.md)
-- 7.3 [Insertion Sort](insertion-sort)
+- 7.3 [Insertion Sort](insertion-sort.md)
 
 ### "Should Do" Lessons
 - 7.4 [Binary Search](binary-search.md)
