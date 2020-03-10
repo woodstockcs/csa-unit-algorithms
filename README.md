@@ -8,8 +8,8 @@
 ### "Should Do" Lessons
 - 7.4 [Binary Search](binary-search.md)
 - 7.5 [Merge Sort](merge-sort.md)
-- 7.6 Project 1
+- 7.6 [Video Project](video-project.md)
 
 ### "Aspire To" Lessons
-- 7.7 Project 2
+- 7.7 [Coding Project](coding-project.md)
 
