@@ -2,4 +2,4 @@ Choose one of the sort algorithms you studied in this unit. Record a short (max 
 
 Explain what you're doing in the video using either audio narration or readable signs on the screen.
 
-Upload your video to your school youtube account and submit the link in the google classroom assignment.
+Upload your video to your school youtube account and submit the link in the google classroom assignment called "Unit 7 Video Project".
