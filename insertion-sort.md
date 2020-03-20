@@ -1,7 +1,7 @@
 [<-- back to unit overview](README.md)
 
 ---
-# Insertion Sort
+# 7.3 Insertion Sort
 
 ### Part 1: Instruction
 1. Watch the Edhesive video at _Term 2: Lesson 16 - Insertion Sort_ and take notes on your copy of the slides.
@@ -15,7 +15,7 @@
 1. Add text to the slide to label each sketch and to display your name.
 
 ### Part 3: Mastery Check
-1. The mastery check is [linked here](https://drive.google.com/open?id=1ZMqxl556BU3FFxsbIcFIdm3kOd-q265q). Capture your answer in any form you like (typed, video, audio, handwritten+photographed), then email that answer to Mr. Smith. Expect a response within 24 hours.
+1. The mastery check is [linked here](https://drive.google.com/open?id=1ZMqxl556BU3FFxsbIcFIdm3kOd-q265q). Capture your answer in any form you like (typed, video, audio, handwritten+photographed), then submit it on google classroom in the assignment called "Submit your 7.3 Mastery Check here".
 
 ---
 [<-- back to unit overview](README.md)
