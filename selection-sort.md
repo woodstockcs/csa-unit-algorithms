@@ -1,7 +1,7 @@
 [<-- back to unit overview](README.md)
 
 ---
-# Selection Sort
+# 7.2 Selection Sort
 
 ### Part 1: Instruction
 1. Watch the Edhesive video at _Term 2: Lesson 15 - Selection Sort_ and take notes on your copy of the slides.
@@ -15,7 +15,7 @@
 1. Run your class in the Edhesive coderunner, making updates until you pass all the tests.
 
 ### Part 3: Mastery Check
-1. The mastery check is [linked here](https://drive.google.com/open?id=14fhyrS388wyYndUpTlh20PMhXRKQwagG). Capture your answer in any form you like (typed, video, audio, handwritten+photographed), then email that answer to Mr. Smith. Expect a response within 24 hours.
+1. The mastery check is [linked here](https://drive.google.com/open?id=14fhyrS388wyYndUpTlh20PMhXRKQwagG). Capture your answer in any form you like (typed, video, audio, handwritten+photographed), then submit it on google classroom in the assignment called "Submit your 7.2 Mastery Check here".
 
 ---
 [<-- back to unit overview](README.md)
