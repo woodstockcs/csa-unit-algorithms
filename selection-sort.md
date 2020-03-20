@@ -15,7 +15,7 @@
 1. Run your class in the Edhesive coderunner, making updates until you pass all the tests.
 
 ### Part 3: Mastery Check
-1. See Mr. Smith for a mastery check before moving on to the next lesson.
+1. The mastery check is [linked here](https://drive.google.com/open?id=14fhyrS388wyYndUpTlh20PMhXRKQwagG). Capture your answer in any form you like (typed, video, audio, handwritten+photographed), then email that answer to Mr. Smith. Expect a response within 24 hours.
 
 ---
 [<-- back to unit overview](README.md)
